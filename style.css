@@ -1,0 +1,10 @@
+h1{
+    font: italic;
+    padding: 50px;
+    border: 50px;
+    background-color: lightblue;
+    box-shadow: 25px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7lYC6Do_4sEyP3GFW9-iFKf86vjXjTs9rHw&s);
+}
+
+body{text-align: center;}
